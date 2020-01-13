@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Jian Cheng
 
-You can use the [editor on GitHub](https://github.com/hustaia/jian_cheng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CVer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+I am currently pursuing the Ph.D degree from National Key Laboratory of Science and Technology on Multi‑Spectral Information Processing, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology. My research interests are in computer vision, pattern recognition and deep learning. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
 
-```markdown
-Syntax highlighted code block
+I received my B.Sc. degree in Computer Science and Technology in 2019.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hustaia/jian_cheng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contacts
+#### Address
+Huazhong University of Science and Technology, Wuhan 430074, China
+#### Email
+jian_cheng@hust.edu.cn
+#### Website
+https://github.com/hustaia/jian_cheng.github.io
